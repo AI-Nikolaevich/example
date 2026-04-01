@@ -1,0 +1,87 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+out/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+!packages/repositories.config
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.bin
+*.cache
+
+# Test results
+[Tt]est[Rr]esult/
+[Bb]uildLog/
+*.trx
+*.coverage
+*.coveragexml
+*.coverlet
+
+# Logs
+*.log
+*.logs
+
+# Entity Framework migration files
+*.jfm
+*.dbmdl
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+*.swp
+*.swo
